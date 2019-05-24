@@ -16,6 +16,6 @@ Contents:<br />
 
    -Principal Component Analysis on the Iris Dataset ([view with nbviewer](https://nbviewer.jupyter.org/github/chrisman1015/Unsupervised-Learning/blob/master/PCA%20on%20the%20Iris%20Dataset%20with%20scikit-learn/Principal%20Component%20Analysis.ipynb)) <br />
    -Principal Component Analysis on the Statcast Homeruns Data ([view with nbviewer](https://nbviewer.jupyter.org/github/chrisman1015/Unsupervised-Learning/blob/master/PCA%20on%20Statcast%20Homeruns%20Data/PCA%20on%20Statcast%20Homeruns%20Data.ipynb)) <br />
-   -K-Means Classification on tf-idf Data with TruncatedSVD and scikit-learn ([view with nbviewer](https://nbviewer.jupyter.org/github/chrisman1015/Unsupervised-Learning/blob/master/PCA%20and%20K-Means%20Classification%20on%20tf-idf%20Data%20with%20scikit-learn/PCA%20and%20K-Means%20Classification%20on%20tf-idf%20Data%20with%20scikit-learn.ipynb)) <br />
+   -TruncatedSVD Decomposition and K-Means Classification on tf-idf Data with scikit-learn ([view with nbviewer](https://nbviewer.jupyter.org/github/chrisman1015/Unsupervised-Learning/blob/master/TruncatedSVD%20Decomposition%20and%20K-Means%20Classification%20on%20tf-idf%20Data%20with%20scikit-learn/K-Means%20Classification%20on%20tf-idf%20Data%20with%20TruncatedSVD%20and%20scikit-learn.ipynb)) <br />
    
   -I have a few more projects on the way, but the more complex models take a bit longer to create. Check back soon!
